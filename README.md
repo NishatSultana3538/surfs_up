@@ -24,16 +24,16 @@ the three key differences in weather between June and December
 
 
 
-1. ![]()
-
-2. 
- ![]()
-
-
-
-3. 
+1. The average(mean) of temperature in the month of June and December is 74.94 and 71.04 which is not a big difference and very suitable weather in terms of surfing and ice cream shop .
 ![]()
 
+2. The minimum temperature in the month of June and December is 64.00 and 56.00 respectively . It seems cond weather in December compared to June but again sine the avarage temperature is similar for those two months it shouldn't be a big trouble. 
+ ![]()
+
+3. The maximum(max) temperature in the month of June and December is 85.00 and 83.00 respectively. Which again show that the weather dosn't become too hot in any of the month.
+
+In conclusion, it seems the weather in Oahu in both June & Dcecember is suitable 
+for both surfing and ice cream shop.
 
 
 
@@ -41,34 +41,12 @@ the three key differences in weather between June and December
 
 ### Summary:
 
-* wo additional queries to perform to gather more weather data for June and December
-
-![retiring_titles](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retiring.png)
-
-
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-Yes, from the analysis of retirement ready employees we found that a total of 1549 employees who can mentor next generation of Pewlett Hackard employees who hold different senior titles who born in 1965 and will have time to train new employees before they retire.
-
-Here is the two additional queries or tables that provide more insight for this question.
-
-Counting the number of employees who born in 1965 and are qualified mentors.
- ![retirement_ready](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_ready_employees.png)
-
- After filtering employees who born between 1964 to 1967 we got the following number of qualified mentors  who can train new employees before they retire.
-
-![retirement_ready1](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/qualified%20mentor.png)
+* Two additional queries to perform to gather more weather data for June and December
+![June-prcp]()
 
 
- 
- ![retirement_ready1](https://github.com/NishatSultana3538/Pewlett-Hackard-Analysis/blob/main/Data/Challenge7_data/retirement_ready_employees2.png)
-
-
-
-
-
-
-
+* 
+![December_prcp]()
 
 
 
