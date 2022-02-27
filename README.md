@@ -13,22 +13,23 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results: 
 
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
+Using the hawaii.sqlite [hawaii.sqlite](https://github.com/NishatSultana3538/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of June using the code [SurfsUp_Challenge](https://github.com/NishatSultana3538/surfs_up/blob/main/climate_analysis.ipynb)
 
-Using the hawaii.sqlite [hawaii.sqlite](https://github.com/NishatSultana3538/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of June using the code []()
-I got the following  data ![June_data](https://github.com/NishatSultana3538/surfs_up/blob/main/June.png)
-and to retrieve all the temperatures for the month of December using the code []() I got the following  data  ![December_data](https://github.com/NishatSultana3538/surfs_up/blob/main/December.png)
+I got the following  data 
 
-From the analysis the temperature data from June and December there are three key differences 
-the three key differences in weather between June and December
+![June_data](https://github.com/NishatSultana3538/surfs_up/blob/main/June.png)
 
+and to retrieve all the temperatures for the month of December using the code []() I got the following  data 
 
+ ![December_data](https://github.com/NishatSultana3538/surfs_up/blob/main/December.png)
+
+From the analysis of the temperature data from June and December there are three key differences 
 
 1. The average(mean) of temperature in the month of June and December is 74.94 and 71.04 which is not a big difference and very suitable weather in terms of surfing and ice cream shop .
-![]()
+
 
 2. The minimum temperature in the month of June and December is 64.00 and 56.00 respectively . It seems cond weather in December compared to June but again sine the avarage temperature is similar for those two months it shouldn't be a big trouble. 
- ![]()
+
 
 3. The maximum(max) temperature in the month of June and December is 85.00 and 83.00 respectively. Which again show that the weather dosn't become too hot in any of the month.
 
@@ -41,7 +42,9 @@ for both surfing and ice cream shop.
 
 ### Summary:
 
-* Two additional queries to perform to gather more weather data for June and December
+* Two additional queries to perform to gather more weather data for June and December using the ![additional _query](https://github.com/NishatSultana3538/surfs_up/blob/main/Additional_query.png)
+
+
 ![June-prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/June_prcp.png)
 
 
