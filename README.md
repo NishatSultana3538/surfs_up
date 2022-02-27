@@ -42,15 +42,18 @@ for both surfing and ice cream shop.
 
 ### Summary:
 
- Two additional queries to perform to gather more weather data for June and December using the code 
+ Two additional queries was  performed to gather more weather data for June and December using the code 
 
 ![additional _query](https://github.com/NishatSultana3538/surfs_up/blob/main/Additional_query.png)
 
 
-*  ![June-prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/June_prcp.png)
+* June precipitation data
+
+ ![June-prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/June_prcp.png)
 
 
-* 
+* December precipitation data
+
 ![December_prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/December_prcp.png)
 
 
