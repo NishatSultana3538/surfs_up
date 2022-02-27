@@ -13,7 +13,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results: 
 
-Using the hawaii.sqlite [hawaii.sqlite](https://github.com/NishatSultana3538/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of June using the code [SurfsUp_Challenge](https://github.com/NishatSultana3538/surfs_up/blob/main/climate_analysis.ipynb)
+Using the hawaii.sqlite [hawaii.sqlite](https://github.com/NishatSultana3538/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of June using the code [SurfsUp_Challenge](https://github.com/NishatSultana3538/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 I got the following  data 
 
@@ -42,10 +42,12 @@ for both surfing and ice cream shop.
 
 ### Summary:
 
-* Two additional queries to perform to gather more weather data for June and December using the ![additional _query](https://github.com/NishatSultana3538/surfs_up/blob/main/Additional_query.png)
+ Two additional queries to perform to gather more weather data for June and December using the code 
+
+![additional _query](https://github.com/NishatSultana3538/surfs_up/blob/main/Additional_query.png)
 
 
-![June-prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/June_prcp.png)
+*  ![June-prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/June_prcp.png)
 
 
 * 
