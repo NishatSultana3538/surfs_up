@@ -15,9 +15,9 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
-Using the hawaii.sqlite [hawaii.sqlite]() database to retrieve all the temperatures for the month of June using the code []()
-I got the following  data ![June_data]()
-and to retrieve all the temperatures for the month of December using the code []() I got the following  data  ![December_data]()
+Using the hawaii.sqlite [hawaii.sqlite](https://github.com/NishatSultana3538/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of June using the code []()
+I got the following  data ![June_data](https://github.com/NishatSultana3538/surfs_up/blob/main/June.png)
+and to retrieve all the temperatures for the month of December using the code []() I got the following  data  ![December_data](https://github.com/NishatSultana3538/surfs_up/blob/main/December.png)
 
 From the analysis the temperature data from June and December there are three key differences 
 the three key differences in weather between June and December
@@ -42,11 +42,11 @@ for both surfing and ice cream shop.
 ### Summary:
 
 * Two additional queries to perform to gather more weather data for June and December
-![June-prcp]()
+![June-prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/June_prcp.png)
 
 
 * 
-![December_prcp]()
+![December_prcp](https://github.com/NishatSultana3538/surfs_up/blob/main/December_prcp.png)
 
 
 
