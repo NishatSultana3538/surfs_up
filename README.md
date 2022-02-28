@@ -19,16 +19,16 @@ I got the following  data
 
 ![June_data](https://github.com/NishatSultana3538/surfs_up/blob/main/June.png)
 
-and to retrieve all the temperatures for the month of December using the code []() I got the following  data 
+and to retrieve all the temperatures for the month of December using the code [SurfsUp_Challenge](https://github.com/NishatSultana3538/surfs_up/blob/main/SurfsUp_Challenge.ipynb) I got the following  data 
 
- ![December_data](https://github.com/NishatSultana3538/surfs_up/blob/main/December.png)
+![December_data](https://github.com/NishatSultana3538/surfs_up/blob/main/December.png)
 
 From the analysis of the temperature data from June and December there are three key differences 
 
-1. The average(mean) of temperature in the month of June and December is 74.94 and 71.04 which is not a big difference and very suitable weather in terms of surfing and ice cream shop .
+1. The average(mean) of temperature in the month of June and December is 74.94 and 71.04 respectively which is not a big difference and very suitable weather in terms of surfing and ice cream shop .
 
 
-2. The minimum temperature in the month of June and December is 64.00 and 56.00 respectively . It seems cond weather in December compared to June but again sine the avarage temperature is similar for those two months it shouldn't be a big trouble. 
+2. The minimum temperature in the month of June and December is 64.00 and 56.00 respectively . It seems cold weather in December compared to June but again sine the avarage temperature is similar for those two months it shouldn't be a big trouble. 
 
 
 3. The maximum(max) temperature in the month of June and December is 85.00 and 83.00 respectively. Which again show that the weather dosn't become too hot in any of the month.
@@ -42,7 +42,7 @@ for both surfing and ice cream shop.
 
 ### Summary:
 
- Two additional queries was  performed to gather more weather data for June and December using the code 
+ Two additional queries was  performed to gather more precipitation data for June and December using the code 
 
 ![additional _query](https://github.com/NishatSultana3538/surfs_up/blob/main/Additional_query.png)
 
