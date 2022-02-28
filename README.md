@@ -23,7 +23,7 @@ and to retrieve all the temperatures for the month of December using the code [S
 
 ![December_data](https://github.com/NishatSultana3538/surfs_up/blob/main/December.png)
 
-From the analysis of the temperature data from June and December there are three key differences 
+From the analysis of the temperature data from June and December there are three key differences:
 
 1. The average(mean) of temperature in the month of June and December is 74.94 and 71.04 respectively which is not a big difference and very suitable weather in terms of surfing and ice cream shop .
 
@@ -33,7 +33,7 @@ From the analysis of the temperature data from June and December there are three
 
 3. The maximum(max) temperature in the month of June and December is 85.00 and 83.00 respectively. Which again show that the weather dosn't become too hot in any of the month.
 
-In conclusion, it seems the weather in Oahu in both June & Dcecember is suitable 
+In conclusion, it seems the weather in Oahu in both June & December is suitable 
 for both surfing and ice cream shop.
 
 
@@ -42,7 +42,7 @@ for both surfing and ice cream shop.
 
 ### Summary:
 
- Two additional queries was  performed to gather more precipitation data for June and December using the code 
+ Two additional queries was  performed to gather more data . As precipitation data for June and December  in Oahu will be very useful in order to determine if the surf and ice cream shop business is sustainable year-round. The code to get this data is as follows:
 
 ![additional _query](https://github.com/NishatSultana3538/surfs_up/blob/main/Additional_query.png)
 
